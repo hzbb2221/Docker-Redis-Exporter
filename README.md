@@ -1,5 +1,5 @@
 ### 1. 功能说明
-采集redis监控数据
+使用 Docker 方式部署 Redis-Exporter ，采集 Redis 数据库信息后通过 http 的方式暴露给 Prometheus
 
 
 </br>
