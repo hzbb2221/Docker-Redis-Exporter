@@ -4,7 +4,7 @@
 
 </br>
 
-### 2. 环境变量：
+### 2. 环境变量（compose文件）：
 REDIS_HOST: Redis服务主机地址   
 REDIS_PROT: Redis服务端口   
 REDIS_PASSWORD: Redis连接密码    
